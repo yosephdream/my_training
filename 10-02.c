@@ -4,7 +4,8 @@
 
 #include <stdio.h>
 
-int main(void){
+int main(void)
+{
 
 	int n1, n2, temp;
 	int *np1 = &n1, *np2 = &n2;
